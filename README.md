@@ -1,6 +1,6 @@
 # Creating Users in Microsoft Azure's Entra ID <p align="center">
 
-<img width="600" height="400" alt="image" src="https://github.com/userattachments/assets/14806b36-bc52-44a8-a825-615241d884e0" />
+<img width="502" height="237" alt="Microsfot Entra ID" src="https://github.com/user-attachments/assets/0b252d93-ef5c-4e3e-b57f-7e117a73a795" />
 </p>
 
 <h1>Creating User's in Our Lab Environment (Azure)</h1>
@@ -20,19 +20,19 @@ This tutorial outlines the process of creating users in Entra ID.<br />
 <h2>Users Created</h2>
 
 <p>
-<img width="1724" height="862" alt="image" src="https://github.com/userattachments/assets/e5f6f8d6-6980-4159-8399-5e6db404a780" />
+<img width="1820" height="849" alt="ss CK" src="https://github.com/user-attachments/assets/da1b5aa7-5521-46e5-abc7-a346bb4e365d" />
 
 </p>
 <p>
-Created a new user named Chris Walker.
+Created a new user named Clark Kent.
 </p>
 <br />
 
 <p>
-<img width="1718" height="847" alt="image" src="https://github.com/userattachments/assets/52c6eb54-5718-4855-ae1b-6eda7e2581f3" />
+<img width="1820" height="849" alt="ss BW" src="https://github.com/user-attachments/assets/010caff8-d24b-40a0-9618-cac5c737e628" />
 
 </p>
 <p>
-Created a new user named Jordan Lee.
+Created a new user named Bruce Wayne.
 </p>
 <br />
