@@ -3,10 +3,6 @@
 <img width="502" height="237" alt="Microsfot Entra ID" src="https://github.com/user-attachments/assets/0b252d93-ef5c-4e3e-b57f-7e117a73a795" />
 </p>
 
-<h1>Creating User's in Our Lab Environment (Azure)</h1>
-This tutorial outlines the process of creating users in Entra ID.<br />
-
-
 <h2>Environments and Technologies Used</h2>
 
 - Microsoft Azure Entra ID
